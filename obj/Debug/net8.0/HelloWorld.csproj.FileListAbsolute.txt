@@ -1,0 +1,14 @@
+/Users/lukaslarsen/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukaslarsen/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/lukaslarsen/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/Users/lukaslarsen/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/lukaslarsen/HelloWorld/bin/Debug/net8.0/HelloWorld
+/Users/lukaslarsen/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/Users/lukaslarsen/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/Users/lukaslarsen/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/Users/lukaslarsen/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/Users/lukaslarsen/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/Users/lukaslarsen/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/Users/lukaslarsen/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/Users/lukaslarsen/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/Users/lukaslarsen/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
